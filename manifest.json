@@ -12,5 +12,5 @@
     "icons": {
         "512": "assets/icon.png"
     },
-    "permissions": ["tabs", "<all_urls>", "activeTab"]
+    "permissions": ["tabs"]
 }
