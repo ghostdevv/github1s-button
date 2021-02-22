@@ -10,7 +10,7 @@ This is a simple extension that makes it easy to jump back and forth between git
     awaiting approval
 3. ### Install unpacked:
     1. Clone this repository
-    2. Go to chomre://extensions
+    2. Go to chrome://extensions
     3. Enable developer moe
     4. Click load unpacked
     5. Select this repository folder
