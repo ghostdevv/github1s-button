@@ -11,10 +11,10 @@
         "scripts": ["src/background.js"]
     },
     "icons": {
-        "16": "assets/16-disabled.png",
-        "32": "assets/32-disabled.png",
-        "64": "assets/64-disabled.png",
-        "128": "assets/128-disabled.png"
+        "16": "icons/16-disabled.png",
+        "32": "icons/32-disabled.png",
+        "64": "icons/64-disabled.png",
+        "128": "icons/128-disabled.png"
     },
     "permissions": ["tabs"]
 }

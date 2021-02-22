@@ -35,10 +35,10 @@ function setIcon(type, tabId) {
     chrome.browserAction.setIcon({
         tabId,
         path: {
-            16: '../assets/16-' + type + '.png',
-            32: '../assets/32-' + type + '.png',
-            64: '../assets/64-' + type + '.png',
-            128: '../assets/128-' + type + '.png',
+            16: '../icons/16-' + type + '.png',
+            32: '../icons/32-' + type + '.png',
+            64: '../icons/64-' + type + '.png',
+            128: '../icons/128-' + type + '.png',
         },
     });
 }
