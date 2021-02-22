@@ -1,7 +1,5 @@
 chrome.browserAction.onClicked.addListener(async function (tab) {
-    const isValidURL = tab.url.match(
-        /^(http(s)?):\/\/(?:github|github1s).com/gm,
-    );
+    const isValidURL = validURL(tab.url);
 
     if (!isValidURL)
         return chrome.browserAction.setPopup({
@@ -24,3 +22,27 @@ chrome.browserAction.onClicked.addListener(async function (tab) {
         });
     }
 });
+
+chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
+    const isValidURL = validURL(tab.url);
+
+    if (isValidURL) {
+        setIcon('active', tabId);
+    }
+});
+
+function setIcon(type, tabId) {
+    chrome.browserAction.setIcon({
+        tabId,
+        path: {
+            16: '../assets/16-' + type + '.png',
+            32: '../assets/32-' + type + '.png',
+            64: '../assets/64-' + type + '.png',
+            128: '../assets/128-' + type + '.png',
+        },
+    });
+}
+
+function validURL(url) {
+    return url.match(/^(http(s)?):\/\/(?:github|github1s).com/gm);
+}
