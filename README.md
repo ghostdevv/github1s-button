@@ -2,6 +2,11 @@
 
 This is a simple extension that makes it easy to jump back and forth between github1s and github. Click the extension button when on your repo to view it in github1s, click it again when you want to go back to github.
 
+When you are on a repo (such as this one) you can just press the extension button to jump to github1s.
+
+# What is github1s
+[Github1s](https://github.com/conwnet/github1s) allows you to view a github repository in visual studio code online!
+
 # Installation
 
 1. ### Install from chrome web store
