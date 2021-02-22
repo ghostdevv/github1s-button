@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Github1s Chrome",
+    "version": "0.0.0",
+    "description": "A simple chrome extension that allows clicking on it to open the page you are on in github1s",
+    "browser_action": {
+        "default_title": "Github1s Chrome extension"
+    },
+    "background": {
+        "scripts": ["src/background.js"]
+    },
+    "icons": {
+        "512": "assets/icon.png"
+    },
+    "permissions": ["tabs", "<all_urls>", "activeTab"]
+}
