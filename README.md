@@ -22,3 +22,7 @@ This is a simple extension that makes it easy to jump back and forth between git
 # Suggestions
 
 Make a issue
+
+# Discord
+
+Join the [discord](https://discord.gg/2Vd4wAjJnm)
