@@ -4,7 +4,7 @@ This is a simple extension that makes it easy to jump back and forth between git
 
 When you are on a repo (such as this one) you can just press the extension button to jump to github1s.
 
-# What is github1s
+# What is github1s?
 [Github1s](https://github.com/conwnet/github1s) allows you to view a github repository in visual studio code online!
 
 # Installation
