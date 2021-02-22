@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Github1s Chrome",
+    "name": "Github1s",
     "version": "1.0.0",
     "description": "This is a simple extension that makes it easy to jump back and forth between github1s and github.",
     "author": "GHOST#7524 | github.com/ghostdevv",
