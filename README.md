@@ -6,7 +6,9 @@ This is a simple extension that makes it easy to jump back and forth between git
 
 1. Install from chrome web store
     #### to be added
-2. Install unpacked:
+2. Install from firefox web store
+    #### to be added
+3. Install unpacked:
     1. Clone this repository
     2. Go to chomre://extensions
     3. Enable developer moe
