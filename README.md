@@ -4,11 +4,11 @@ This is a simple extension that makes it easy to jump back and forth between git
 
 # Installation
 
-1. Install from chrome web store
-    #### to be added
-2. Install from firefox web store
-    #### to be added
-3. Install unpacked:
+1. ### Install from chrome web store
+    Currently if you are on chrome you can just follow the install unpacked guide, I don't have the $5 needed to sign up for a account to publish on the chrome web store, if anyone has a account or wants to help out with the $5 contact me
+2. ### Install from firefox web store
+    awaiting approval
+3. ### Install unpacked:
     1. Clone this repository
     2. Go to chomre://extensions
     3. Enable developer moe
