@@ -12,7 +12,7 @@ When you are on a repo (such as this one) you can just press the extension butto
 1. ### Install from chrome web store
     Currently if you are on chrome you can just follow the install unpacked guide, I don't have the $5 needed to sign up for a account to publish on the chrome web store, if anyone has a account or wants to help out with the $5 contact me
 2. ### Install from firefox web store
-    awaiting approval
+    [![get-firefox-extension](https://i.imgur.com/ToueNQt.png)](https://addons.mozilla.org/en-GB/firefox/addon/github1s-button/)
 3. ### Install unpacked:
     1. Clone this repository
     2. Go to chrome://extensions
