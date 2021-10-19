@@ -16,7 +16,7 @@ When you are on a repo (such as this one) you can just press the extension butto
 3. ### Install unpacked:
     1. Clone this repository
     2. Go to chrome://extensions
-    3. Enable developer moe
+    3. Enable developer mode
     4. Click load unpacked
     5. Select this repository folder
 
@@ -28,7 +28,7 @@ When you are on a repo (such as this one) you can just press the extension butto
 
 # Suggestions
 
-Make a issue
+Make an issue
 
 # Discord
 
